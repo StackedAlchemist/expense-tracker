@@ -4,7 +4,7 @@
 
 A clean, themeed personal expense tracker built with vanilla HTML, CSS, and JavaScript. Log income, expenses, and borrowed funds — then filter, sort, and visualize your spending at a glance.
 
-**[🔮 View Live Demo](https://stackedalchemist.github.io/Portfolio/expense-tracker/)**
+**[🔮 View Live Demo](https://stackedalchemist.github.io/stacked-alchemist/expense-tracker/)**
 
 ---
 
@@ -37,7 +37,7 @@ A clean, themeed personal expense tracker built with vanilla HTML, CSS, and Java
 No dependencies or build tools required.
 
 ```bash
-git clone https://github.com/StackedAlchemist/Portfolio.git
+git clone https://github.com/StackedAlchemist/stacked-alchemist.git
 cd Portfolio/expense-tracker
 # Open index.html in your browser
 ```
@@ -63,4 +63,4 @@ expense-tracker/
 
 ---
 
-*Built by [Billy Williams](https://stackedalchemist.github.io/Portfolio/) — Stacked Alchemist*
+*Built by [Billy Williams](https://stackedalchemist.github.io/stacked-alchemist/) — Stacked Alchemist*
